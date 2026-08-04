@@ -1,13 +1,6 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2870
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 Patient: Maria Delgado, 58F. Visit date: June 3.\
-Reason for visit: Two-week follow-up after starting metformin for newly diagnosed type 2 diabetes. A1c was 7.8 at the prior visit.\
-Patient reports feeling \'93mostly fine.\'94 Had some loose stools the first week that have since settled. Says she \'93thinks she missed maybe two or three doses\'94 when her schedule got busy. Checking her sugar \'93a few times a week\'94; morning readings \'93usually around 140 to 160.\'94 No blurry vision, no excess thirst. Walking about 20 minutes most days.\
-Current meds: metformin 500 mg twice daily; lisinopril 10 mg daily (started last year); occasional ibuprofen for knee pain.\
-Vitals today: BP 138/84, HR 76, weight 192 lb (down 3 lb from last visit).\
-Plan discussed: continue metformin; recheck A1c in 3 months; consider increasing the metformin dose if morning readings stay high. Reinforced diet; set a goal of checking sugars daily.}
+Patient: Maria Delgado, 58F. Visit date: June 3.
+Reason for visit: Two-week follow-up after starting metformin for newly diagnosed type 2 diabetes. A1c was 7.8 at the prior visit.
+Patient reports feeling “mostly fine.” Had some loose stools the first week that have since settled. Says she “thinks she missed maybe two or three doses” when her schedule got busy. Checking her sugar “a few times a week”; morning readings “usually around 140 to 160.” No blurry vision, no excess thirst. Walking about 20 minutes most days.
+Current meds: metformin 500 mg twice daily; lisinopril 10 mg daily (started last year); occasional ibuprofen for knee pain.
+Vitals today: BP 138/84, HR 76, weight 192 lb (down 3 lb from last visit).
+Plan discussed: continue metformin; recheck A1c in 3 months; consider increasing the metformin dose if morning readings stay high. Reinforced diet; set a goal of checking sugars daily.
