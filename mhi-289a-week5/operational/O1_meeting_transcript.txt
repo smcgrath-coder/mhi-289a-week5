@@ -1,0 +1,19 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Dana (chair): Okay, item three, the ambient scribe pilot. Where are we?\
+Priya: We\'92ve got 12 clinicians signed up across family med and IM. We were hoping for 15, but a couple dropped out over consent questions.\
+Marcus: Do we have a go-live date?\
+Priya: Tentatively the first week of August, but that depends on whether IT finishes the EHR integration. I don\'92t want to commit until we hear back from them.\
+Dana: Fine, let\'92s call it \'91early August, pending IT.\'92 Who\'92s owning the clinician training?\
+Priya: That\'92s still open, honestly. We need someone. I can do the first session but not all of them.\
+Marcus: I\'92ll check if one of the super-users can take it. Don\'92t put my name down as the owner yet, though.\
+Dana: Understood. Next, the budget, Priya, you mentioned needing another $40k?\
+Priya: Maybe around there. I\'92d have to confirm the licensing once we know the final headcount. Could be less.\
+Dana: Let\'92s table the budget number until we have the headcount locked. Last thing, there was a proposal to extend the pilot to nursing documentation. I think that\'92s premature. Let\'92s hold it for now.\
+Marcus: Agreed, not yet.\
+Dana: Good. Priya sends a recap by Friday.}
